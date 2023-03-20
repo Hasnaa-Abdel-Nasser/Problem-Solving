@@ -11,6 +11,7 @@
 //Input: nums = [1,1]
 //Output: [2]
 
+
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
